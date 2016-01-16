@@ -5,7 +5,7 @@
   
 # ダウンロード / インストール / アンインストール
 ## ダウンロード
-Ver1.0.0 :  [https://github.com/oykdn2109/Mover/releases/download/v1/Mover.v1.0.0.zip](https://github.com/oykdn2109/Mover/releases/download/v1/Mover.v1.0.0.zip)
+Ver1.0.0 :  [https://github.com/oykdn2109/Mover/releases/download/v1/Mover.v1.1.0.zip](https://github.com/oykdn2109/Mover/releases/download/v1/Mover.v1.1.0.zip)
   
 ## インストール
 ダウンロードしたZIPファイルを任意のフォルダに解凍してください。
@@ -20,10 +20,14 @@ Ver1.0.0 :  [https://github.com/oykdn2109/Mover/releases/download/v1/Mover.v1.0.
 間違って「Start」ボタンを押してしまった場合は、  
 「Cancel」ボタンを押すとカウントダウンをストップできます。  
   
+# 更新履歴
+同じ日 : 隠し機能(Ctrlキー、Shiftキー押下時の動作)を追加  
+2016-1-16 : 最初の公開  
+  
 # 作った人
 親子丼  
 Twitter : [@alltekito](http://twitter.com/alltekito)  
 Blog : [親子丼の備忘録(改)](http://oykdn.hatenablog.com/)  
-
+  
 # その他
 *「User32.DLL」を使用しています。
