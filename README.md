@@ -5,7 +5,7 @@
   
 # ダウンロード / インストール / アンインストール
 ## ダウンロード
-Ver1.0 :   
+Ver1.0.0 :  [https://github.com/oykdn2109/Mover/releases/download/v1/Mover.v1.0.0.zip](https://github.com/oykdn2109/Mover/releases/download/v1/Mover.v1.0.0.zip)
   
 ## インストール
 ダウンロードしたZIPファイルを任意のフォルダに解凍してください。
@@ -22,8 +22,8 @@ Ver1.0 :
   
 # 作った人
 親子丼  
-Twitter : (@alltekito)[http://twitter.com/alltekito]  
-Blog : (親子丼の備忘録(改))[http://oykdn.hatenablog.com/]  
+Twitter : [@alltekito](http://twitter.com/alltekito)  
+Blog : [親子丼の備忘録(改)](http://oykdn.hatenablog.com/)  
 
 # その他
 *「User32.DLL」を使用しています。

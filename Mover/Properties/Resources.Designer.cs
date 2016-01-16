@@ -59,15 +59,5 @@ namespace Mover.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
-        /// </summary>
-        internal static System.Drawing.Icon oyakodon_org {
-            get {
-                object obj = ResourceManager.GetObject("oyakodon_org", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
     }
 }
